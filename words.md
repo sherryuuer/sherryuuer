@@ -21,6 +21,10 @@
 >
 > - Anakin Skywalker, Star Wars Episode II: Attack Of The Clones
 
+> “Difficult to see; always in motion is the future.”
+>
+> - Yoda, Star Wars: The Empire Strikes Back
+
 <!-- advent of code
 login by github
 ownerproof-3389830-1701432572-23b586ca3b44 -->
