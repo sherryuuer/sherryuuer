@@ -25,6 +25,14 @@
 >
 > - Yoda, Star Wars: The Empire Strikes Back
 
+> “Why, you stuck-up half-witted scruffy-looking nerf herder.”
+>
+> - Princess Leia, Star Wars: The Empire Strikes Back
+
+> “In my experience, there’s no such thing as luck.”
+>
+> - Obi-Wan Kenobi, Star Wars: A New Hope
+
 <!-- advent of code
 login by github
 ownerproof-3389830-1701432572-23b586ca3b44 -->
