@@ -19,8 +19,14 @@ Life is not only an adventure, but also an ultimate exploration. Who am I and wh
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sherryuuer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/SallysCafe"><img src="IMG_5630.jpeg" width="150"/></a></li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/techs"><img src="IMG_8535.jpeg" width="150"/></a></li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/web-apps"><img src="IMG_3041.JPG" width="150"/></a></li>
+</ul>
+
+### Other Portals
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/web-apps"><img src="IMG_3041.JPG" width="150"/></a>Sally's Home:</li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/SallysCafe"><img src="IMG_5630.jpeg" width="150"/></a>Sally's Cafe</li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/techs"><img src="IMG_8535.jpeg" width="150"/></a>Sally's algorithms</li>
 
 </ul>
