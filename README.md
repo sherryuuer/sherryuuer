@@ -1,4 +1,4 @@
-# Hi,this is SallyW calling.
+# Hi,this is SallyWang.
 
 ## Data Scientist.
 
@@ -25,8 +25,12 @@ Life is not only an adventure, but also an ultimate exploration. Who am I and wh
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/web-apps"><img src="IMG_3041.JPG" width="150"/></a>Sally's Home:</li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/SallysCafe"><img src="IMG_5630.jpeg" width="150"/></a>Sally's Cafe</li>
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/techs"><img src="IMG_8535.jpeg" width="150"/></a>Sally's algorithms</li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/web-apps">回主站：SALLYHOME</a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/SallysCafe">咖啡厅：SALL碎碎念</a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/techs">实验室：SALLY算法</a></li>
 
 </ul>
+
+### THINKING MODEL
+
+[MODELS](models/modellist.md)
