@@ -8,6 +8,12 @@ Life is not only an adventure, but also an ultimate exploration. Who am I and wh
 - ✉️  You can contact me at [sherryuuer@gmail.com](mailto:sherryuuer@gmail.com)
 - 🤝  I'm open to collaborating on interesting projects.
 
+## Think models
+
+一个人最重要的技能，在于他如何思考这个世界，他的思维方式和底层逻辑，决定了他的做事方式。在[Sally 的思维模型](models/modellist.md)中我罗列了我思考的重要模型。人类永远需要在不断的模型迭代和更新中发展，这和机器学习的模型迭代是一样的，永远要在思想上活跃，行动上主动，才能让思想永远带领自己走向更远的地方。
+
+终归，是一个问题解决者。只有解决问题的能力才是终极能力。
+
 ### Skills
 
 <p align="left">
@@ -26,4 +32,3 @@ Life is not only an adventure, but also an ultimate exploration. Who am I and wh
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/web-apps">回主站：SALLYHOME</a></li>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/SallysCafe">咖啡厅：SALL碎碎念</a></li>
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://sherryuuer.github.io/techs">实验室：SALLY算法</a></li>
-[模型屋：SALLYModels](models/modellist.md)
