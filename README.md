@@ -1,6 +1,6 @@
 # Hi,this is Saaaally.
 
-## I AM A PLAYER.
+## I AM A GAMER.
 
 Life is not only an adventure, but also an ultimate exploration. Who am I and what is my mission And I found it. That is learning to understand the universe. Just like the opening animation of Github. In the vast sea of stars, I will definitely find my star, which will allow me to see a different universe.
 
