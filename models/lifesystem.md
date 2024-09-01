@@ -41,3 +41,13 @@ What ever happens, you will benefit from it!
 将障碍转化为机会。所有发生的坏事都会让我成长。热爱压力。
 
 那些无法完全打败我的，都会让我变得更强。
+
+### 9月 The Power of Elimination
+
+一件事情是好的还是坏的，是由我们的想法决定的，学会消除消极思想和bullshit的事情，意味着专注于做自己应该做的事情。
+
+问问自己：What is the most important thing to me?
+
+给自己答案，然后做即可，放弃被琐碎的消极思想牵着鼻子走。
+
+消除的力量。
