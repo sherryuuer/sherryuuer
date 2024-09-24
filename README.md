@@ -7,7 +7,7 @@ Life is not only an adventure, but also an ultimate exploration. Who am I and wh
 <div align="center">
 
 [![Always Cafe!](assets/header.gif)](https://github.com/sherryuuer)
-Background GIF by [7her4ja](https://jp.pinterest.com/pin/33847434694442929/) on [Pinterest](https://www.pinterest.com/), It's really Cool.
+Background GIF by [Carru Xd](https://jp.pinterest.com/pin/33988172183318873/) on [Pinterest](https://www.pinterest.com/), It's really Cool.
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/sherryuuer) &nbsp;
 [![MySite](https://skillicons.dev/icons?i=coffeescript)](https://sherryuuer.github.io/web-apps/) &nbsp;
