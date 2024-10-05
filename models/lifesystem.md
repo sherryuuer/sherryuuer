@@ -51,3 +51,9 @@ What ever happens, you will benefit from it!
 给自己答案，然后做即可，放弃被琐碎的消极思想牵着鼻子走。
 
 消除的力量。
+
+### 10月 The World is a Playground
+
+这太棒了，这正是我昨晚感受到的！有趣，刺激，惊险，直接，不遮遮掩掩，享受想要的，不需要试探，只需要去尽力争取，享受！
+
+I am ready!!! Anytime!
