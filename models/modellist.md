@@ -15,3 +15,4 @@
 - [LifeSystem](lifesystem.md)：ZTM‘s Life System from Andrei。
 - [RAIL](rail.md)：有意识，并快速学习技能的方法。
 - [麦肯锡思考](麦肯锡思考工具.md)：学习前人框架，拒绝重新造轮子。
+- [思考框架](思考框架.md)：思考框架是所有后续交流和行动的指导。
