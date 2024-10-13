@@ -11,6 +11,7 @@ Background GIF by [Carru Xd](https://jp.pinterest.com/pin/33988172183318873/) on
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://x.com/sherryuuer) &nbsp;
 [![MySite](https://skillicons.dev/icons?i=coffeescript)](https://sherryuuer.github.io/web-apps/) &nbsp;
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sherryuuer/) &nbsp;
 
 </div>
 
