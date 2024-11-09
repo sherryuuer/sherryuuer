@@ -57,3 +57,7 @@ What ever happens, you will benefit from it!
 这太棒了，这正是我昨晚感受到的！有趣，刺激，惊险，直接，不遮遮掩掩，享受想要的，不需要试探，只需要去尽力争取，享受！
 
 I am ready!!! Anytime!
+
+### 11月 The Office Effect
+
+在不快乐的日子中，试图发现小的惊喜和快乐，断绝社交和烦扰，找到日常的平静。
